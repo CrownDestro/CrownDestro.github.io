@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on My-Self</title>
+    <link>https://CrownDestro.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on My-Self</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2024 19:53:33 +0530</lastBuildDate>
+    <atom:link href="https://CrownDestro.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Hugo site</title>
+      <link>https://CrownDestro.github.io/blogs/math/</link>
+      <pubDate>Fri, 19 Apr 2024 19:53:33 +0530</pubDate>
+      <guid>https://CrownDestro.github.io/blogs/math/</guid>
+      <description>HUGO Getting started with my Hugo site was a bit of a journey.&#xA;At first, I had no idea where to begin, but I was determined to figure it out. I faced many difficulties along the way, from understanding the basics of Hugo to grappling with the complexities of web development.&#xA;There were moments when I felt frustrated and overwhelmed, but I kept pushing forward. With patience and perseverance, I slowly started to piece things together.</description>
+    </item>
+  </channel>
+</rss>

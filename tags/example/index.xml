@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example on My-Self</title>
+    <link>https://CrownDestro.github.io/tags/example/</link>
+    <description>Recent content in Example on My-Self</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2024 22:41:10 +0530</lastBuildDate>
+    <atom:link href="https://CrownDestro.github.io/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://CrownDestro.github.io/blogs/placeholder-text/</link>
+      <pubDate>Fri, 19 Apr 2024 22:41:10 +0530</pubDate>
+      <guid>https://CrownDestro.github.io/blogs/placeholder-text/</guid>
+      <description> &amp;lt;script type=&amp;#34;text/javascript&amp;#34;&amp;gt; function getInspiration() { if (morningDay == &amp;#34;depressed&amp;#34;) start.Coding &amp;amp; get.Awesome; }&#x9;&amp;lt;/script&amp;gt; </description>
+    </item>
+  </channel>
+</rss>
